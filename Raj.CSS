@@ -10,7 +10,7 @@ body{
 header{
     background: lightcyan;
     font: italic;
-    margin: 0px 0px;
+    padding: 30px 0px 0px 0px;
 }
 
 section{
@@ -50,11 +50,28 @@ h1{
         
 }
 .Lower_Section{
-    background: rgb(0, 147, 160);
-    color: aliceblue;
+    background: rgb(202, 220, 222);
+    color: rgb(71, 115, 154);
     margin:10px;
     width: 100%;
 }
+header .logo a {
+    background-image: url(Images_project/Home.jpg);
+    background-size: 300px;
+    background-repeat: none;
+    display: inline-block;
+    height: 350px;
+    position: relative;
+    text-indent: -999999px;
+    width: 300px;
+    ;
+
+   
+
+}
+
+
+
 
 
 
