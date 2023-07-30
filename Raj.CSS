@@ -14,9 +14,14 @@ a {
 
 header{
     color: white;
+    background-image: url(Images_project/Header_background.webp);
+    background-size: 100%;
+    background-position: center;
     text-decoration: none;
     text-transform: uppercase;
-    text-align: center;
+    height: 400px;
+    padding: 60px 0px 0px 0px;
+
     
 
 }
@@ -46,12 +51,16 @@ ul{
     display: flex;
     flex-direction: row;
     list-style-type: none;
+
 }
 
 li{
     width: auto;
     padding: 5px 10px;
+    width: 100%;
     text-align: center;
+
+
 }
 h1{
     color: aliceblue;
@@ -71,12 +80,15 @@ header .logo a {
     background-size: 300px;
     background-repeat: no-repeat;
     display: inline-block;
-    height: 160px;
+    height: 150px;
     position: relative;
+    bottom: 85px;
     text-indent: -999999px;
     width: 300px;
-    
-}  
+} 
+section{
+    height: 300px;
+} 
 
 
 
