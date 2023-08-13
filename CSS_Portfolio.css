@@ -1,0 +1,29 @@
+body{
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+.unordered_list{
+    list-style:none;
+}
+.list_element{
+    display: inline-block;
+    color: black;
+    padding: 20px;
+    height: 5px;
+
+}
+header{
+    width: 100%;
+    display: block;
+    background-color: #a47171;
+    height: 100px;
+}
+header h1,p{
+
+    padding: 15px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
