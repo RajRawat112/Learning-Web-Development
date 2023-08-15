@@ -42,3 +42,11 @@ header {
 .nav-links li a:hover{
     color: #0088a9;
 }
+
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+    color: #edf0f1;
+    font-size: 30px;
+    margin-top: 150px;
+    margin-left: 10%;
+}
