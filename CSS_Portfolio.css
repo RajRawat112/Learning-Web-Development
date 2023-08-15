@@ -50,3 +50,18 @@ header {
     margin-top: 150px;
     margin-left: 10%;
 }
+.about{
+    font-family: 'Cousrier New', Courier, monospace;
+    color: #b5a866;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 10%;
+    width: 55%;
+}
+.about p{
+    color: #edf0f1;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 10%;
+    width: 55%;
+}
