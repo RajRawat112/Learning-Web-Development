@@ -65,3 +65,9 @@ header {
     margin-left: 10%;
     width: 55%;
 }
+.gif{
+    width: 30%;
+    margin-left: 10%;
+    margin-top: 50px;
+    border-radius: 50%;
+}
