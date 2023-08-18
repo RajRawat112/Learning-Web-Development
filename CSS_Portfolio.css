@@ -49,6 +49,7 @@ header {
     font-size: 35px;
     margin-top: 150px;
     margin-left: 10%;
+    margin-bottom: 28px;
 }
 .about{
     font-family: 'Cousrier New', Courier, monospace;
@@ -94,5 +95,11 @@ header {
 }
 .social a:hover{
     color: #0088a9;
+}
+.resume_1{
+    color: #b8c9ce;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 10%;
 }
 
