@@ -74,13 +74,17 @@ header {
 }
 .social a {
     display: block;
-    margin-top: 5%;
-    margin-left: auto;
+    margin-top: 95%;
+    margin-left: 10%;
     
 }
 .block{
     display: inline-block;
+    width: auto;
+    margin-left: 20%;
+}
+.social{
+    margin-top: 5%;
     margin-left: 10%;
-    margin-top: 50px;
-    width: 49%;
+    display: inline-block;
 }
