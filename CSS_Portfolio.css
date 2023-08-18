@@ -66,8 +66,21 @@ header {
     width: 55%;
 }
 .gif{
-    width: 30%;
+    width: 25%;
+    display: inline-block;
     margin-left: 10%;
     margin-top: 50px;
     border-radius: 50%;
+}
+.social {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 10%;
+    
+}
+.block{
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 50px;
+    width: 55%;
 }
