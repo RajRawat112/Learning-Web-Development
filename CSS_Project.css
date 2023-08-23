@@ -8,10 +8,21 @@
     background-color: #24252a;
 }
 
-.proj_heading1{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 55px;
-    color: #a4b96f;
+.project{
+    display: inline-block;
+    width: 100%;
     margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.proj_heading1{
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    color: #a4b96f;
+    font-size: 65px;
     margin-left: 38%;
+}
+.project_gif{
+    margin-left: 3%;
 }

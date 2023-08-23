@@ -46,7 +46,7 @@ header {
 .heading{
     font-family: 'Courier New', Courier, monospace;
     color: #edf0f1;
-    font-size: 35px;
+    font-size: 45px;
     margin-top: 150px;
     margin-left: 10%;
     margin-bottom: 28px;
@@ -104,17 +104,18 @@ header {
 
 .resume_1{
     display: inline-block;
-    width: 30%;
-    color: #b8c9ce;
+    width: 20%;
+    color: #71c2da;
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
     margin-left: 10%;
 
 }
 
-.resume_2 a{
-    display: inline-block;
-    margin-left: 10%;
+.resume_2 {
+    color: #64a4ba;
+    font-size: 25px;
+    margin-left: -20px;
     
 
 }
