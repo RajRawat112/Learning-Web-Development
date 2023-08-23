@@ -96,10 +96,27 @@ header {
 .social a:hover{
     color: #0088a9;
 }
+
+.resume{
+    display: inline-block;
+    width: 100%;
+}
+
 .resume_1{
+    display: inline-block;
+    width: 30%;
     color: #b8c9ce;
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
     margin-left: 10%;
+
 }
+
+.resume_2 a{
+    display: inline-block;
+    margin-left: 10%;
+    
+
+}
+
 

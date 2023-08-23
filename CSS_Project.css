@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #edf0f1;
+    background-color: #24252a;
+}
+
+.proj_heading1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 55px;
+    color: #a4b96f;
+    margin-top: 20px;
+    margin-left: 38%;
+}
