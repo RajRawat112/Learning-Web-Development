@@ -16,6 +16,10 @@
 
 }
 
+.project_gif{
+    margin-left: 3%;
+}
+
 .proj_heading1{
     display: inline-block;
     font-family: 'Courier New', Courier, monospace;
@@ -23,6 +27,13 @@
     font-size: 65px;
     margin-left: 38%;
 }
-.project_gif{
-    margin-left: 3%;
+
+.proj_heading2{
+    display: block;
+    color: #57b4b2;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    margin-left: 2%;
+    margin-bottom: 10px;
+
 }
