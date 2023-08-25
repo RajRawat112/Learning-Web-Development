@@ -54,12 +54,13 @@
 .project2{
     display: inline-block;
     width: 30%;
+    margin-left: 30px;
 }
 
 .project3{
     display: inline-block;
     width: 30%;
-    margin-left: 15px;
+    margin-left: 30px;
 }
 
 .proj_sheading1, .proj_sheading2, .proj_sheading3{
@@ -70,10 +71,16 @@
 }
 
 .proj_para1, .proj_para2, .proj_para3{
-    color: #a4b96f;
+    color: #edf0f1;
     font-size: 20px;
     margin-bottom: 10px;
     font-size: 18px;
 }   
+
+.proj_img1, .proj_img2, .proj_img3{
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
 
 
