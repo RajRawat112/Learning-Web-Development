@@ -61,3 +61,19 @@
     width: 30%;
     margin-left: 15px;
 }
+
+.proj_sheading1, .proj_sheading2, .proj_sheading3{
+    color: #9a666c;
+    margin-bottom: 10px;
+    font-size: 25px;
+
+}
+
+.proj_para1, .proj_para2, .proj_para3{
+    color: #a4b96f;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}   
+
+
