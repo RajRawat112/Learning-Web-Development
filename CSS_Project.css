@@ -16,10 +16,6 @@
 
 }
 
-.project_gif{
-    margin-left: 3%;
-}
-
 .proj_heading1{
     display: inline-block;
     font-family: 'Courier New', Courier, monospace;
@@ -67,6 +63,7 @@
     color: #57b4b2;
     margin-bottom: 10px;
     font-size: 25px;
+    margin-left: 22%;
 
 }
 
@@ -84,6 +81,12 @@
     height: 200px;
     width: 55%;
     margin-left: 15%
+}
+
+.proj_img1:hover, .proj_img2:hover, .proj_img3:hover{
+    opacity: 0.6;
+    cursor: pointer;
+    
 }
 
 
