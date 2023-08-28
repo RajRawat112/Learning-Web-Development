@@ -64,7 +64,7 @@
 }
 
 .proj_sheading1, .proj_sheading2, .proj_sheading3{
-    color: #9a666c;
+    color: #57b4b2;
     margin-bottom: 10px;
     font-size: 25px;
 
@@ -81,6 +81,9 @@
     width: 100%;
     border-radius: 10px;
     margin-bottom: 15px;
+    height: 200px;
+    width: 55%;
+    margin-left: 15%
 }
 
 
