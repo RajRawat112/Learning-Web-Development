@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24252a;
+}
+body{
+    background-image: url(Project_Images/Contact_backgroundimg.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
