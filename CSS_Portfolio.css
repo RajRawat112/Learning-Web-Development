@@ -112,34 +112,14 @@ header {
     color: #0088a9;
 }
 
-.resume{
-    display: inline-block;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #edf0f1;
-    font-size: 30px;
-    width: 100%;
-    margin-top: 5%;
-}
-
-
-.resume_label{
-    display: inline-block;
-    margin-left: 10%;
-
-}
-
-.resume_img{
-    display: inline-block;
-    width: 5%;
-    margin-left: 2%;
-    border-radius: 20%;
-}
-
-.resume_img:hover{
-    width: 7%;
-    border-radius: 20%;
+.resume :hover{
+    border: 3px solid #0088a9;
+    border-radius: 15px;
     opacity: 0.7;
 }
+
+
+
 
 
 
