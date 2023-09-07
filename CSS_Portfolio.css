@@ -43,11 +43,7 @@ header {
     color: #0088a9;
 }
 
-.myself{
-    display: inline-block;
-    width: 100%;
-    margin-bottom: 90px;
-}
+
 
 .heading{
     display: inline-block;
@@ -55,7 +51,6 @@ header {
     color: #edf0f1;
     width: auto;
     font-size: 38px;
-    margin-top: -50px;
     margin-left: 5%;
     margin-bottom: 60px;
 }
